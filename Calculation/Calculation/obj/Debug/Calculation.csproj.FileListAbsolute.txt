@@ -1,0 +1,5 @@
+C:\Users\cr851\source\repos\uni\SWE30004\Calculation\Calculation\bin\Debug\Calculation.dll
+C:\Users\cr851\source\repos\uni\SWE30004\Calculation\Calculation\bin\Debug\Calculation.pdb
+C:\Users\cr851\source\repos\uni\SWE30004\Calculation\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\cr851\source\repos\uni\SWE30004\Calculation\Calculation\obj\Debug\Calculation.dll
+C:\Users\cr851\source\repos\uni\SWE30004\Calculation\Calculation\obj\Debug\Calculation.pdb

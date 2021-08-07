@@ -1,0 +1,14 @@
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentActivityHD1\bin\Debug\DeploymentActivityHD1.exe.config
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentActivityHD1\bin\Debug\DeploymentActivityHD1.exe
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentActivityHD1\bin\Debug\DeploymentActivityHD1.pdb
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentActivityHD1\bin\Debug\CalculatePrint.dll
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentActivityHD1\bin\Debug\Calculation.dll
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentActivityHD1\bin\Debug\CalculatePrint.pdb
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentActivityHD1\bin\Debug\Calculation.pdb
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentActivityHD1\obj\Debug\DeploymentActivityHD1.Form1.resources
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentActivityHD1\obj\Debug\DeploymentActivityHD1.Properties.Resources.resources
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentActivityHD1\obj\Debug\DeploymentActivityHD1.csproj.GenerateResource.cache
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentActivityHD1\obj\Debug\DeploymentActivityHD1.csproj.CoreCompileInputs.cache
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentActivityHD1\obj\Debug\DeploymentActivityHD1.csproj.CopyComplete
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentActivityHD1\obj\Debug\DeploymentActivityHD1.exe
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentActivityHD1\obj\Debug\DeploymentActivityHD1.pdb

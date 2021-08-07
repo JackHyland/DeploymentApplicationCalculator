@@ -1,0 +1,15 @@
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentProjectHD\Images\SplashScreen.scale-200.png
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentProjectHD\Images\LockScreenLogo.scale-200.png
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentProjectHD\Images\Square150x150Logo.scale-200.png
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentProjectHD\Images\SquareImage44x44Logo.scale-200.png
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentProjectHD\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentProjectHD\Images\StoreLogo.png
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentProjectHD\Images\Wide310x150Logo.scale-200.png
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentProjectHD\bin\AnyCPU\Release\resources.pri
+C:\Users\cr851\source\repos\uni\SWE30004\CalculatePrint\CalculatePrint\bin\Debug\CalculatePrint.dll
+C:\Users\cr851\source\repos\uni\SWE30004\Calculation\Calculation\bin\Debug\Calculation.dll
+C:\Users\cr851\source\repos\uni\SWE30004\CalculatePrint\CalculatePrint\bin\Debug\CalculatePrint.pdb
+C:\Users\cr851\source\repos\uni\SWE30004\Calculation\Calculation\bin\Debug\Calculation.pdb
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentActivityHD1\bin\Release\DeploymentActivityHD1.exe
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentActivityHD1\bin\Release\DeploymentActivityHD1.exe.config
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentActivityHD1\bin\Release\DeploymentActivityHD1.pdb

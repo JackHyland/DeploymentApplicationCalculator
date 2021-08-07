@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="JacksHDCalculator" Language="1033" Version="1.0.0.0" Manufacturer="Jack Hyland" UpgradeCode="eb51e3e7-8627-46ce-80d4-9d2da899f7bf">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+    <MediaTemplate EmbedCab="yes"/>
+
+		<Feature Id="ProductFeature" Title="DeploymentHDWix" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="DeploymentHDWix" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+      <Component Id="DeploymentActivityHD1.exe" Guid="9FE80E97-1E4B-4472-BE4A-62F425DEC17D" >
+        <File Id="DeploymentActivityHD1.exe" Name="DeploymentActivityHD1.exe" Source="$(var.DeploymentActivityHD1.TargetDir)DeploymentActivityHD1.exe"></File>
+      </Component>
+    </ComponentGroup>
+	</Fragment>
+</Wix>

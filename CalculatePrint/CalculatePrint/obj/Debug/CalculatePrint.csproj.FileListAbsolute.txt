@@ -1,0 +1,6 @@
+C:\Users\cr851\source\repos\uni\SWE30004\CalculatePrint\CalculatePrint\bin\Debug\CalculatePrint.dll
+C:\Users\cr851\source\repos\uni\SWE30004\CalculatePrint\CalculatePrint\bin\Debug\CalculatePrint.pdb
+C:\Users\cr851\source\repos\uni\SWE30004\CalculatePrint\CalculatePrint\obj\Debug\CalculatePrint.csprojAssemblyReference.cache
+C:\Users\cr851\source\repos\uni\SWE30004\CalculatePrint\CalculatePrint\obj\Debug\CalculatePrint.csproj.CoreCompileInputs.cache
+C:\Users\cr851\source\repos\uni\SWE30004\CalculatePrint\CalculatePrint\obj\Debug\CalculatePrint.dll
+C:\Users\cr851\source\repos\uni\SWE30004\CalculatePrint\CalculatePrint\obj\Debug\CalculatePrint.pdb

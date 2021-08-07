@@ -1,0 +1,2 @@
+MainPackage=C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentProjectHD\bin\AnyCPU\Release\Upload\DeploymentProjectHD_1.0.11.0_AnyCPU.msix
+SymbolPackage=C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentProjectHD\bin\AnyCPU\Release\Upload\DeploymentProjectHD_1.0.11.0\DeploymentProjectHD_1.0.11.0_AnyCPU.appxsym

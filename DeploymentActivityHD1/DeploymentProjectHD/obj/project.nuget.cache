@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "murCFqFgxXlm3jh1XNEK8G46hDf4cC0+ovE0TryCDSeugQEQxIaS80SAm4aM6OL+TdhjU7ugSrxGU676uCS0cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cr851\\source\\repos\\uni\\SWE30004\\DeploymentActivityHD1\\DeploymentProjectHD\\DeploymentProjectHD.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.19041.8\\microsoft.windows.sdk.buildtools.10.0.19041.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentHDWix\bin\Debug\DeploymentHDWix.msi
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentHDWix\bin\Debug\DeploymentHDWix.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\DeploymentHDWix.wixproj.BindContentsFileListnull.txt
+obj\Debug\DeploymentHDWix.wixproj.BindOutputsFileListnull.txt
+obj\Debug\DeploymentHDWix.wixproj.BindBuiltOutputsFileListnull.txt

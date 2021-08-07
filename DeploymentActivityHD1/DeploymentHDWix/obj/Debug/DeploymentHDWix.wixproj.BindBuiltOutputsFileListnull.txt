@@ -1,0 +1,2 @@
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentHDWix\bin\Debug\DeploymentHDWix.msi
+C:\Users\cr851\source\repos\uni\SWE30004\DeploymentActivityHD1\DeploymentHDWix\bin\Debug\DeploymentHDWix.wixpdb
